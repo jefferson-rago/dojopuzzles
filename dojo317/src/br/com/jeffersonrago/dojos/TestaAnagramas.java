@@ -1,4 +1,4 @@
-package br.com.jeffersonrago.dojos.dojo317;
+package br.com.jeffersonrago.dojos;
 
 import br.com.jeffersonrago.dojos.operacao.Anagramas;
 import br.com.jeffersonrago.dojos.operacao.Fatorial;
